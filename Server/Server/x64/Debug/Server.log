@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\Downloads\ChatApplication\Server\Server\main.cpp(36,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\ASUS\Downloads\ChatApplication\Server\x64\Debug\Server.exe
